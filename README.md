@@ -19,7 +19,6 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ### Languages and Tools:
-<p>
 
 
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />][unix_shell_playlist]
@@ -41,7 +40,8 @@
 [<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/teraform.png" />][kubernetesplaylist]
 
 
-</p>
+<br />
+<br />
 
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanshNaugraiya&show_icons=true)
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SuryanshNaugraiya&show_icons=true&hide_border=true" />

@@ -6,17 +6,29 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Devops related tech resourses**
+- 😎 I am a "Data Analyst" Fresher.
 
-- 🌱 I’m currently learning **AWS,AZURE**
+⭐ Passionate About "Data science and analysis".
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+🔭 I’m currently working on Portfolio Projects.
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/maxmanishcosta)**
+👯 I’m looking to collaborate on "Data Analysis Projects".
 
-- 📫 How to reach me **maxmanishcosta@gmail.com**
+💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+📫 How to reach me: +919370296416 or samyakgaykwad2091@gmail.com
+
+👨‍💻 All of my projects are available at my portfolio.
+
+📄 Know about my experience: My Resume
+
+My Animated GIF
+
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/Samyak Gaykwad)
+
+💻 My Skills:
+Power BI    MySQL    Microsoft Excel    Python    NumPy    Pandas    Matplotlib    Plotly
 
 ### Languages and Tools:
 

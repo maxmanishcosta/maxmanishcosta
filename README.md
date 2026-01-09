@@ -1,20 +1,18 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manish</h1>
-<h3 align="center">I'm a passionate Data Analyst and AWS Engineer from India.</h3>
+<h3 align="center">I'm a passionate AWS DevOps Engineer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-😎 I am a "Data Analyst" Fresher.
+😎 I am an  AWS DevOps Engineer.
 
-⭐ Passionate About "Data science and analysis".
+⭐ Passionate about "AWS and DevOps".
 
-🔭 I’m currently working on Portfolio Projects.
+🔭 I’m currently working on Projects.
 
-👯 I’m looking to collaborate on "Data Analysis Projects".
-
-💬 Ask me about SQL, PowerBi, Dashboard, and Analysis.
+👯 I’m looking to collaborate on "AWS DevOps Project".
 
 📫 How to reach me: [maxmanishcosta@gmail.com](mailto:maxmanishcosta@gmail.com)
 
@@ -29,16 +27,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_maxmanishcosta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxmanishcosta) 
 
 
-# 💻 My Skills:
-
-![Power BI](https://img.shields.io/badge/Power%20BI-%230F75A8.svg?style=for-the-badge&logo=power-bi&logoColor=yellow) &nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00008B) &nbsp;&nbsp;
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp;&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp;&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) &nbsp;&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Languages and Tools:
 

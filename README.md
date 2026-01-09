@@ -4,6 +4,9 @@
 <h3 align="center">I'm a passionate AWS DevOps Engineer from India.</h3>
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maxmanishcosta&label=Profile%20views&color=0e75b6&style=flat" alt="maxmanishcosta" /> </p>
+
+
 ## 🙋‍♂️ About Me
 
 😎 I am an  AWS DevOps Engineer.

@@ -56,14 +56,7 @@
 <br />
 <br />
 
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanshNaugraiya&show_icons=true)
- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SuryanshNaugraiya&show_icons=true&hide_border=true" />
-<br>
-<br><br>
-<br>
- <br>  
- <br>   
- <br>
+
 
 
 ## Connect with me:

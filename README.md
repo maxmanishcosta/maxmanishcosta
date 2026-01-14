@@ -19,7 +19,7 @@
 
 📫 How to reach me: [maxmanishcosta@gmail.com](mailto:maxmanishcosta@gmail.com)
 
-👨‍💻 All of my projects are available at [my portfolio](https://).
+👨‍💻 All of my projects are available at [My portfolio](https://).
 
 📄 Know about my experience: [My Resume](#)
 
